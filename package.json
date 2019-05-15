@@ -2,7 +2,7 @@
   "name": "debugging-react-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sonnyftw.github.io/github-react-app/" 
+  "homepage": "https://sonnyftw.github.io/github-react-app/", 
   "dependencies": {
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
